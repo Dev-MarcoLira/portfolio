@@ -3,16 +3,10 @@ const AboutContainer = () => {
       <section className="about-container">
         <h2>Sobre</h2>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-          Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-          debitis est autem aperiam necessitatibus beatae assumenda illo rem
-          architecto quis dolor quae.
+          Desenvolvedor Web especialista em aplicações Frontend de alta escalabilidade e com design funcional. Se você deseja planejar projetos completos e chamativos, não exite em buscar a minha ajuda para se destacar!
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis
-          aperiam, odit nihil placeat, dolorum sequi reprehenderit fugiat,
-          distinctio provident impedit modi neque sapiente voluptate voluptates.
-          Maiores sint at dolores?
+          Web Services, APIs, Server-Side Rendering, Frameworks e Bibliotecas do mercado, além da capacidade de se adaptar a qualquer Infraestrutura Web (IaaS) utilizada, fazem parte das minhas competências.
         </p>
       </section>
     );
